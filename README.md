@@ -1,5 +1,5 @@
 # Wireless Sensor Hub
-An IoT system designed for **Maintanence**.
+An IoT system designed for **Maintenance**.
 
 ![EdgeCollectorDemo01](https://github.com/sakuya55688/sakuya55688.github.io/blob/main/GIFs/EdgeCollector.gif?raw=true)
 
